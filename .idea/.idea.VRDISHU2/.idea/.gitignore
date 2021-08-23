@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.VRDISHU2.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../:\unity project\VRDISHU2\.idea\.idea.VRDISHU2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
